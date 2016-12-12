@@ -1,0 +1,27 @@
+{
+    "name": "heimrichhannot/datatables-additional",
+    "description": "This library contains additional customizations for datatables.",
+    "keywords": [
+    ],
+    "type": "module",
+    "homepage": "https://github.com/heimrichhannot/datatables-additional",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Heimrich & Hannot",
+            "email": "digitales@heimrich-hannot.de",
+            "homepage": "http://www.heimrich-hannot.de",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/heimrichhannot/datatables-additional/issues"
+    },
+    "require": {
+    },
+    "autoload": {
+        "classmap": [
+            ""
+        ]
+    }
+}
