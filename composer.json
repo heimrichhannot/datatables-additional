@@ -19,6 +19,17 @@
     },
     "require": {
     },
+    "extra": {
+        "component": {
+            "files": [
+                "datatables.net-dt/css/*.css",
+                "datatables.net-dt/images/*.png",
+                "datatables-i18n/*.js",
+                "datatables-RowReorder/css/*.css",
+                "datatables-RowReorder/js/*.js"
+            ]
+        }
+    },
     "autoload": {
         "classmap": [
             ""
