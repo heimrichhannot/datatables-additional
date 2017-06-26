@@ -3,7 +3,7 @@
     "description": "This library contains additional customizations for datatables.",
     "keywords": [
     ],
-    "type": "module",
+    "type": "contao-component",
     "homepage": "https://github.com/heimrichhannot/datatables-additional",
     "license": "LGPL-3.0+",
     "authors": [
@@ -18,17 +18,7 @@
         "issues": "https://github.com/heimrichhannot/datatables-additional/issues"
     },
     "require": {
-    },
-    "extra": {
-        "component": {
-            "files": [
-                "datatables.net-dt/css/*.css",
-                "datatables.net-dt/images/*.png",
-                "datatables-i18n/*.js",
-                "datatables-RowReorder/css/*.css",
-                "datatables-RowReorder/js/*.js"
-            ]
-        }
+        "contao-components/installer": "~1.0"
     },
     "autoload": {
         "classmap": [
