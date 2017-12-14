@@ -19,10 +19,5 @@
     },
     "require": {
         "contao-components/installer": "~1.0"
-    },
-    "autoload": {
-        "classmap": [
-            ""
-        ]
     }
 }
